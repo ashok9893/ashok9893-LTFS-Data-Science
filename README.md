@@ -1,4 +1,4 @@
-# AV-LTFS-Data-Science-FinHack-ML-Hackathon
+# LTFS Data Science FinHack ( ML Hackathon)
 
 L&T Financial Services & Analytics Vidhya presents ‘DataScience FinHack’ organised by Analytics Vidhya
 
